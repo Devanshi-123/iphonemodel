@@ -1,0 +1,16 @@
+{
+  "name": "Iphonemodel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d mobile"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://Devanshi-123.github.io/iphonemodel",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
